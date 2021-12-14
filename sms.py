@@ -10,7 +10,7 @@ print ("""
  #				    #
  #				    #
  #\033[0;32m       WELCOME TO SPAM-SMS1\033[1;30m       #
- #\033[0;32m            by UNITY  \033[1;30m            #
+ #\033[0;32m            by Tomaya Season  \033[1;30m            #
  #				    #
  #                                  #
  #			            #
